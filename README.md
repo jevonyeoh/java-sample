@@ -26,15 +26,15 @@ As long as you are able to run the main function, and the associated test file, 
 3. Select this project
 4. Select `Import project from external model > Maven`
 5. Select your Java project SDK.
-6. Open `HelloWorld.java` and run it.
-7. Open `HelloWorldTest.java` and run it.
+6. Open `App.java` and run it.
+7. Open `AppTest.java` and run it.
 
 
 ### Eclipse
 1. Open Eclipse
 2. `File -> Import -> Maven -> Existing Maven Project -> Navigate to folder in browse -> Import`
-3. Open `HelloWorld.java` and run it.
-4. Open `HelloWorldTest.java` and run it.
+3. Open `App.java` and run it.
+4. Open `AppTest.java` and run it.
 
 
 ### Via the Command Line (Mac)
